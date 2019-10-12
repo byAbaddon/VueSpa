@@ -87,10 +87,13 @@ input {
 }
 
 #btnSubmit{
-  font-size: bold;
-  border: none;
-  outline: none;
-  padding: 1em 3em;
+    font-size: bold;
+    border: none;
+    outline: none;
+    padding: 1em 1em;
+    color: black;
+    background: palegoldenrod;
+    margin-left: 8%;
 }
 
 #btnSubmit:hover {
@@ -109,5 +112,6 @@ p {
   border: none;
   outline: none;
   position:inherit;
-}
+  color: black;
+}    
 </style>
