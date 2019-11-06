@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-     <app-header/>
+         <app-header/>
 
     <div id="nav">
       <router-link to="/">Home</router-link> |
@@ -8,9 +8,9 @@
       <router-link to="/registration">Registration</router-link>
     </div>
     
-    <router-view /> 
+    
 
- <app-footer/>
+          <app-footer/>
   </div>
 </template>
 
@@ -32,7 +32,7 @@ export default {
   //  font-family: "Avenir", Helvetica, Arial, sans-serif;
   //  -webkit-font-smoothing: antialiased;
   //  -moz-osx-font-smoothing: grayscale;
-  //  text-align: center;
+   text-align: center;
    color: #2c3e50;
 }
 #nav {

@@ -10,7 +10,6 @@
 <v-btn>home</v-btn>
 <v-btn>contact</v-btn>
 <v-btn>about</v-btn>
- 
 </v-footer>
 
 
